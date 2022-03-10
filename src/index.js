@@ -1,3 +1,6 @@
+// require('./index.css');
+import './index.css';
+
 const result = document.querySelector('.result');
 const inpParty = document.querySelector('#party'),
   name_short = document.getElementById('name_short'),
